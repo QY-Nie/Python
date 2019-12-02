@@ -32,4 +32,5 @@ jobs:
         
 #        pytest
     - name: Run the program
+      run:
         python print_strings.py
