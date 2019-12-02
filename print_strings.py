@@ -1,4 +1,4 @@
-pint("Nie: Printing Strings in different way!")
+print("Nie: Printing Strings in different way!")
 w1 = 'Hello '
 w2 = 'World!'
 words1 = 'Hello World!'
