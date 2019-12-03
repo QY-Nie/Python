@@ -33,4 +33,4 @@ jobs:
 #        pytest
     - name: Run the program
       run:
-        run.py
+        python run.py
